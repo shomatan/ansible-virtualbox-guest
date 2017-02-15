@@ -6,7 +6,6 @@
     - gcc
     - make
     - "gcc-c++"
-    - kernel-devel
     - zlib-devel
     - openssl-devel
     - readline-devel
